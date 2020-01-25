@@ -1,0 +1,1 @@
+float32 box_height  # Measurement for the box height in meters
