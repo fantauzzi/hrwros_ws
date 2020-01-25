@@ -1,4 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+# Packages below are currently not available for ROS Melodic, you should build them yourself at the respective location
+src/universal_robot/
+src/turtlebot_simulator/
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
