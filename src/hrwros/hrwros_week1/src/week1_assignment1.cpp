@@ -1,6 +1,6 @@
 #include "ros/ros.h"
 #include "std_msgs/String.h"
-#include "hrwros_msgs/BoxHeightInfo.h"
+#include "hrwros_msgs/BoxHeightInformation.h"
 #include "hrwros_msgs/SensorInformation.h"
 
 #include <functional>
@@ -16,7 +16,7 @@ void sensor_info_callback(const boost::shared_ptr<hrwros_msgs::SensorInformation
                           ros::Publisher &bhi_publisher) {
     auto height_box = 2. - msg->sensor_data.range;
     if (height_box >= 1) {
-        auto box_height_info = hrwros_msgs::BoxHeightInfo();
+        auto box_height_info = hrwros_msgs::BoxHeightInformation();
         box_height_info.box_height = height_box;
         bhi_publisher.publish(box_height_info);
     }
@@ -33,7 +33,7 @@ int main(int argc, char **argv) {
 
     ROS_INFO("%s topic is now available!", "/sensor_info");
 
-    ros::Publisher bhi_publisher = ros_node.advertise<hrwros_msgs::BoxHeightInfo>("/box_height_info", 10);
+    ros::Publisher bhi_publisher = ros_node.advertise<hrwros_msgs::BoxHeightInformation>("/box_height_info", 10);
 
     /* Make a callback that calls sensor_info_callback() in turn, but hard-wires the second argument passed to it,
      * setting it to  bhi_publisher. Another option would be to use std::bind(). */

@@ -9,6 +9,7 @@ project(hrwros_week1)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
+  roscpp
   std_msgs
   hrwros_msgs
 )
@@ -202,7 +203,9 @@ add_executable(week1_assignment1 src/week1_assignment1.cpp)
 add_executable(week1_assignment2 src/week1_assignment2.cpp)
 target_link_libraries(week1_assignment1 ${catkin_LIBRARIES})
 target_link_libraries(week1_assignment2 ${catkin_LIBRARIES})
+add_dependencies(week1_assignment1 hrwros_msgs_generate_messages_cpp)
 # add_dependencies(week1_assignment1 beginner_tutorials_generate_messages_cpp)
+# add_dependencies(your_program ${catkin_EXPORTED_TARGETS})
 
 # add_executable(listener src/listener.cpp)
 # target_link_libraries(listener ${catkin_LIBRARIES})

@@ -2,215 +2,102 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_Digital" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="roscpp_generate_messages_py" />
-      <config projectName="Project" targetName="_run_tests_ur3_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="run_tests_ur10_e_moveit_config" />
-      <config projectName="Project" targetName="run_tests_ur10_e_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="clean_test_results_ur_e_gazebo" />
-      <config projectName="Project" targetName="clean_test_results" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ConvertMetresToFeet" />
-      <config projectName="Project" targetName="run_tests_ur3_moveit_config" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="run_tests_ur5_e_moveit_config" />
-      <config projectName="Project" targetName="_run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="_run_tests_ur_e_gazebo_roslaunch-check" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="dynamic_reconfigure_gencfg" />
-      <config projectName="Project" targetName="_run_tests_ur_gazebo" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="clean_test_results_ur3_e_moveit_config" />
-      <config projectName="Project" targetName="ur_msgs_genlisp" />
-      <config projectName="Project" targetName="run_tests_ur_e_gazebo" />
-      <config projectName="Project" targetName="_catkin_empty_exported_target" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_run_tests_ur5_e_moveit_config" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="actionlib_generate_messages_py" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="Project" targetName="ur_driver_gencfg" />
-      <config projectName="Project" targetName="run_tests_ur5_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="_run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_SensorInformation" />
-      <config projectName="Project" targetName="run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="clean_test_results_ur10_moveit_config" />
-      <config projectName="Project" targetName="run_tests_ur10_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="_run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="ur5_kin" />
-      <config projectName="Project" targetName="shape_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="gmock_main" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="_run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_ToolDataMsg" />
-      <config projectName="Project" targetName="run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayFeedback" />
-      <config projectName="Project" targetName="clean_test_results_ur_gazebo" />
-      <config projectName="Project" targetName="ur10_kin" />
-      <config projectName="Project" targetName="tf_generate_messages_eus" />
-      <config projectName="Project" targetName="_run_tests_ur5_e_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="hrwros_msgs_geneus" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_SetPayload" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_run_tests_ur_e_gazebo" />
-      <config projectName="Project" targetName="run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="shape_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayGoal" />
-      <config projectName="Project" targetName="shape_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="_run_tests_ur5_moveit_config" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_SetIO" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="tf_generate_messages_cpp" />
-      <config projectName="Project" targetName="hrwros_msgs_gencpp" />
-      <config projectName="Project" targetName="gmock" />
-      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
-      <config projectName="Project" targetName="run_tests_ur3_e_moveit_config" />
-      <config projectName="Project" targetName="tests" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="shape_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="run_tests_ur_bringup_roslaunch-check" />
-      <config projectName="Project" targetName="run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="_run_tests_ur3_moveit_config" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionResult" />
-      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="Project" targetName="_run_tests_ur3_e_moveit_config" />
-      <config projectName="Project" targetName="run_tests_ur_gazebo" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="ur5_moveit_plugin" />
-      <config projectName="Project" targetName="_run_tests_ur10_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="tf_generate_messages_lisp" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayResult" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionGoal" />
-      <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="Project" targetName="_run_tests_ur3_e_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_Analog" />
-      <config projectName="Project" targetName="tf_generate_messages_py" />
-      <config projectName="Project" targetName="run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="ur3_moveit_plugin" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="clean_test_results_ur3_moveit_config" />
-      <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_TargetToolPoses" />
-      <config projectName="Project" targetName="_run_tests_ur_bringup_roslaunch-check" />
-      <config projectName="Project" targetName="hrwros_msgs_gennodejs" />
-      <config projectName="Project" targetName="_run_tests_ur10_moveit_config" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="hrwros_msgs_genlisp" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_RobotStateRTMsg" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionFeedback" />
-      <config projectName="Project" targetName="run_tests_ur5_e_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="_run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction" />
-      <config projectName="Project" targetName="run_tests_ur_gazebo_roslaunch-check" />
-      <config projectName="Project" targetName="moveit_ros_planning_gencfg" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="actionlib_generate_messages_eus" />
-      <config projectName="Project" targetName="ur_msgs_geneus" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_RobotModeDataMsg" />
-      <config projectName="Project" targetName="download_extra_data" />
-      <config projectName="Project" targetName="clean_test_results_ur5_e_moveit_config" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="ur_msgs_gennodejs" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="dynamic_reconfigure_generate_messages_py" />
-      <config projectName="Project" targetName="ur_msgs_gencpp" />
-      <config projectName="Project" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="gtest_main" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="run_tests_ur5_moveit_config" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_run_tests_ur_bringup" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_BoxHeightInformation" />
-      <config projectName="Project" targetName="_run_tests_ur_gazebo_roslaunch-check" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="ur3_kin" />
-      <config projectName="Project" targetName="tf_generate_messages_nodejs" />
-      <config projectName="Project" targetName="hrwros_msgs_genpy" />
-      <config projectName="Project" targetName="dynamic_reconfigure_generate_messages_nodejs" />
-      <config projectName="Project" targetName="run_tests_ur3_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="_run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="shape_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="run_tests_ur3_e_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="gtest" />
-      <config projectName="Project" targetName="_run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="run_tests_ur_e_gazebo_roslaunch-check" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="doxygen" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_MasterboardDataMsg" />
-      <config projectName="Project" targetName="dynamic_reconfigure_generate_messages_lisp" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="_run_tests_ur5_moveit_config_roslaunch-check" />
-      <config projectName="Project" targetName="ur10_moveit_plugin" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="dynamic_reconfigure_generate_messages_cpp" />
-      <config projectName="Project" targetName="clean_test_results_ur5_moveit_config" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="run_tests" />
-      <config projectName="Project" targetName="_run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <config projectName="Project" targetName="_run_tests_ur10_e_moveit_config" />
-      <config projectName="Project" targetName="ur_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="week1_assignment1" />
-      <config projectName="Project" targetName="clean_test_results_ur_bringup" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="hrwros_msgs_genlisp" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="week1_assignment2" />
-      <config projectName="Project" targetName="run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="clean_test_results_ur10_e_moveit_config" />
-      <config projectName="Project" targetName="run_tests_ur_bringup" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="ur_msgs_genpy" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="run_tests_ur10_moveit_config" />
-      <config projectName="Project" targetName="dynamic_reconfigure_generate_messages_eus" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayAction" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <config projectName="Project" targetName="_ur_msgs_generate_messages_check_deps_IOStates" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="week1_assignment1" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="Project" targetName="download_extra_data" />
+      <config projectName="Project" targetName="hrwros_msgs_geneus" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_RobotTrajectories" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="_run_tests_ur10_e_moveit_config_roslaunch-check" />
+      <config projectName="Project" targetName="gtest_main" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="tests" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="shape_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="roscpp_generate_messages_py" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionGoal" />
+      <config projectName="Project" targetName="hrwros_msgs_genpy" />
+      <config projectName="Project" targetName="actionlib_generate_messages_eus" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="clean_test_results" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionFeedback" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="shape_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="shape_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayFeedback" />
+      <config projectName="Project" targetName="gmock_main" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_TargetToolPoses" />
+      <config projectName="Project" targetName="actionlib_generate_messages_py" />
+      <config projectName="Project" targetName="_catkin_empty_exported_target" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayResult" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="hrwros_msgs_gennodejs" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="shape_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="gmock" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_BoxHeightInformation" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ConvertMetresToFeet" />
+      <config projectName="Project" targetName="shape_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayGoal" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_SensorInformation" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="hrwros_msgs_gencpp" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="gtest" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayAction" />
+      <config projectName="Project" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_py" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -220,11 +107,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221b4e37-d5eb-426f-80d8-7f114f996c4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week2/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week2/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_msgs/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_msgs/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +151,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="CMake Application.clean_test_results">
     <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
@@ -336,191 +224,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_run_tests_ur10_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur10_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur10_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur10_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_bringup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_bringup" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_bringup_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_bringup_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_e_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_e_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_e_gazebo_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_e_gazebo_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_gazebo_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_gazebo_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_Analog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_Analog" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_Digital" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_Digital" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_IOStates" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_IOStates" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_MasterboardDataMsg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_MasterboardDataMsg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_RobotModeDataMsg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_RobotModeDataMsg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_RobotStateRTMsg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_RobotStateRTMsg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_SetIO" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_SetIO" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_SetPayload" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_SetPayload" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_ur_msgs_generate_messages_check_deps_ToolDataMsg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_ur_msgs_generate_messages_check_deps_ToolDataMsg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -576,87 +279,12 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clean_test_results_ur10_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur10_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur10_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur10_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur3_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur3_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur3_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur3_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur5_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur5_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur5_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur5_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur_bringup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur_bringup" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur_e_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur_e_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clean_test_results_ur_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results_ur_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -786,11 +414,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="moveit_ros_planning_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="moveit_ros_planning_gencfg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="object_recognition_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="object_recognition_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -896,141 +519,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="run_tests_ur10_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur10_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur10_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur10_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_e_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_e_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_e_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_e_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_moveit_config" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_moveit_config" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_moveit_config_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_moveit_config_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_bringup" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_bringup" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_bringup_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_bringup_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_e_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_e_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_e_gazebo_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_e_gazebo_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_gazebo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_gazebo" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_gazebo_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_gazebo_roslaunch-check" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1111,56 +599,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="trajectory_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="trajectory_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1182,121 +620,6 @@
       </method>
     </configuration>
     <configuration name="trajectory_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="trajectory_msgs_generate_messages_py" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur10_kin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur10_kin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur10_moveit_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur10_moveit_plugin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur3_kin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur3_kin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur3_moveit_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur3_moveit_plugin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur5_kin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur5_kin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur5_moveit_plugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur5_moveit_plugin" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_driver_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_driver_gencfg" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_gencpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages_eus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_generate_messages_py" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_geneus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_genlisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_gennodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ur_msgs_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ur_msgs_genpy" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="visualization_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_eus" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="visualization_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="visualization_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="visualization_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1400,17 +723,6 @@
       <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.ur_msgs_gencpp" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages_cpp" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages_eus" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages_lisp" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.ur_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.ur_msgs_geneus" />
-      <item itemvalue="CMake Application.ur_msgs_genlisp" />
-      <item itemvalue="CMake Application.ur_msgs_gennodejs" />
-      <item itemvalue="CMake Application.ur_msgs_genpy" />
       <item itemvalue="CMake Application.tests" />
       <item itemvalue="CMake Application.trajectory_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.trajectory_msgs_generate_messages_eus" />
@@ -1419,108 +731,6 @@
       <item itemvalue="CMake Application.trajectory_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.week1_assignment1" />
       <item itemvalue="CMake Application.week1_assignment2" />
-      <item itemvalue="CMake Application._run_tests_ur10_e_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur10_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur10_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur10_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur10_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur10_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur10_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur10_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur10_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur10_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur10_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur10_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur3_e_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur3_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur3_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur3_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur3_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur3_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur3_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur3_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur3_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur3_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur3_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur5_e_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur5_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur5_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur5_e_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur5_e_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur5_e_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur5_moveit_config" />
-      <item itemvalue="CMake Application._run_tests_ur5_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur5_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur5_moveit_config" />
-      <item itemvalue="CMake Application.run_tests_ur5_moveit_config_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur5_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml" />
-      <item itemvalue="CMake Application._run_tests_ur_bringup" />
-      <item itemvalue="CMake Application._run_tests_ur_bringup_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur_bringup" />
-      <item itemvalue="CMake Application.run_tests_ur_bringup" />
-      <item itemvalue="CMake Application.run_tests_ur_bringup_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur_bringup_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_gencfg" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_generate_messages_cpp" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_generate_messages_eus" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_generate_messages_lisp" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.dynamic_reconfigure_generate_messages_py" />
-      <item itemvalue="CMake Application.ur_driver_gencfg" />
-      <item itemvalue="CMake Application._run_tests_ur_e_gazebo" />
-      <item itemvalue="CMake Application._run_tests_ur_e_gazebo_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur_e_gazebo" />
-      <item itemvalue="CMake Application.run_tests_ur_e_gazebo" />
-      <item itemvalue="CMake Application.run_tests_ur_e_gazebo_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur_e_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application._run_tests_ur_gazebo" />
-      <item itemvalue="CMake Application._run_tests_ur_gazebo_roslaunch-check" />
-      <item itemvalue="CMake Application._run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application.clean_test_results_ur_gazebo" />
-      <item itemvalue="CMake Application.run_tests_ur_gazebo" />
-      <item itemvalue="CMake Application.run_tests_ur_gazebo_roslaunch-check" />
-      <item itemvalue="CMake Application.run_tests_ur_gazebo_roslaunch-check_tests_roslaunch_test.xml" />
-      <item itemvalue="CMake Application.moveit_ros_planning_gencfg" />
-      <item itemvalue="CMake Application.tf2_msgs_generate_messages_cpp" />
-      <item itemvalue="CMake Application.tf2_msgs_generate_messages_eus" />
-      <item itemvalue="CMake Application.tf2_msgs_generate_messages_lisp" />
-      <item itemvalue="CMake Application.tf2_msgs_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.tf2_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.tf_generate_messages_cpp" />
-      <item itemvalue="CMake Application.tf_generate_messages_eus" />
-      <item itemvalue="CMake Application.tf_generate_messages_lisp" />
-      <item itemvalue="CMake Application.tf_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.tf_generate_messages_py" />
-      <item itemvalue="CMake Application.ur10_kin" />
-      <item itemvalue="CMake Application.ur10_moveit_plugin" />
-      <item itemvalue="CMake Application.ur3_kin" />
-      <item itemvalue="CMake Application.ur3_moveit_plugin" />
-      <item itemvalue="CMake Application.ur5_kin" />
-      <item itemvalue="CMake Application.ur5_moveit_plugin" />
-      <item itemvalue="CMake Application.visualization_msgs_generate_messages_cpp" />
-      <item itemvalue="CMake Application.visualization_msgs_generate_messages_eus" />
-      <item itemvalue="CMake Application.visualization_msgs_generate_messages_lisp" />
-      <item itemvalue="CMake Application.visualization_msgs_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.visualization_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_Analog" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_Digital" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_IOStates" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_MasterboardDataMsg" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_RobotModeDataMsg" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_RobotStateRTMsg" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_SetIO" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_SetPayload" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction" />
-      <item itemvalue="CMake Application._ur_msgs_generate_messages_check_deps_ToolDataMsg" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -1560,6 +770,8 @@
       <workItem from="1579958582823" duration="228000" />
       <workItem from="1579959001704" duration="7451000" />
       <workItem from="1579978060474" duration="6635000" />
+      <workItem from="1580383016511" duration="2386000" />
+      <workItem from="1580386923892" duration="556000" />
     </task>
     <servers />
   </component>
@@ -1576,14 +788,14 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981593955" />
-    <state x="2249" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1579981602415">
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580386936244">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2249" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981602415" />
-    <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579985935482">
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580386936244" />
+    <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580386010331">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579985935482" />
+    <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580386010331" />
     <state x="2492" y="422" width="836" height="752" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1579981601810">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>

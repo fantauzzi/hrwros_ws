@@ -1,11 +1,11 @@
 #include "ros/ros.h"
 #include "std_msgs/String.h"
-#include "hrwros_msgs/BoxHeightInfo.h"
+#include "hrwros_msgs/BoxHeightInformation.h"
 #include "hrwros_msgs/ConvertMetresToFeet.h"
 
 #include <functional>
 
-void box_height_info_cb(const boost::shared_ptr<hrwros_msgs::BoxHeightInfo const> &data) {
+void box_height_info_cb(const boost::shared_ptr<hrwros_msgs::BoxHeightInformation const> &data) {
     ros::NodeHandle ros_node;
     auto metres_to_feet = ros_node.serviceClient<hrwros_msgs::ConvertMetresToFeet>("metres_to_feet");
     hrwros_msgs::ConvertMetresToFeet srv;
@@ -31,7 +31,7 @@ int main(int argc, char **argv) {
     }
     ROS_INFO("Service %s is now available!", "metres_to_feet");
 
-    ros::Subscriber sub = ros_node.subscribe<hrwros_msgs::BoxHeightInfo>("/box_height_info", 10, box_height_info_cb);
+    ros::Subscriber sub = ros_node.subscribe<hrwros_msgs::BoxHeightInformation>("/box_height_info", 10, box_height_info_cb);
 
     ros::spin();
 
