@@ -5,6 +5,7 @@
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionResult" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="run_tests" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_eus" />
@@ -17,79 +18,78 @@
       <config projectName="Project" targetName="octomap_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="actionlib_generate_messages_cpp" />
       <config projectName="Project" targetName="object_recognition_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
       <config projectName="Project" targetName="download_extra_data" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="hrwros_msgs_geneus" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_RobotTrajectories" />
       <config projectName="Project" targetName="gtest_main" />
       <config projectName="Project" targetName="moveit_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="tests" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_RobotTrajectories" />
       <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_py" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_py" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_py" />
       <config projectName="Project" targetName="roscpp_generate_messages_py" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionGoal" />
-      <config projectName="Project" targetName="hrwros_msgs_genpy" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_py" />
       <config projectName="Project" targetName="actionlib_generate_messages_eus" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="clean_test_results" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionFeedback" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_BoxHeightInformation" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="object_recognition_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="moveit_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayFeedback" />
       <config projectName="Project" targetName="gmock_main" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
-      <config projectName="Project" targetName="moveit_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_SensorInformation" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_TargetToolPoses" />
       <config projectName="Project" targetName="actionlib_generate_messages_py" />
       <config projectName="Project" targetName="_catkin_empty_exported_target" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayResult" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ConvertMetresToFeet" />
       <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
       <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="hrwros_msgs_gennodejs" />
       <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="roscpp_generate_messages_eus" />
       <config projectName="Project" targetName="std_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_py" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="gmock" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_BoxHeightInformation" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
+      <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ConvertMetresToFeet" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="doxygen" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayGoal" />
       <config projectName="Project" targetName="object_recognition_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_SensorInformation" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="hrwros_msgs_genpy" />
+      <config projectName="Project" targetName="hrwros_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="moveit_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="hrwros_msgs_gencpp" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="gtest" />
@@ -107,12 +107,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221b4e37-d5eb-426f-80d8-7f114f996c4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_msgs/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_msgs/package.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/package.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/src/week1_assignment2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part1.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part1.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part2.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part2.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/create_unknown_obstacles.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/create_unknown_obstacles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -772,6 +773,9 @@
       <workItem from="1579978060474" duration="6635000" />
       <workItem from="1580383016511" duration="2386000" />
       <workItem from="1580386923892" duration="556000" />
+      <workItem from="1580549135181" duration="660000" />
+      <workItem from="1580552839658" duration="928000" />
+      <workItem from="1580557040015" duration="3257000" />
     </task>
     <servers />
   </component>
@@ -783,15 +787,21 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.launch" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.xacro" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/turtlebot_simulator" />
+      <path value="$PROJECT_DIR$/universal_robot" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl" timestamp="1579981593955">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981593955" />
-    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580386936244">
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580549157805">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580386936244" />
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580549157805" />
     <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580386010331">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>

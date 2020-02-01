@@ -38,7 +38,7 @@ if __name__ == '__main__':
     # Initialize a ROS Node
     rospy.init_node('spawn_unknown_obstacle')
     #Get file name of the object to be spawned
-    with open(os.path.join(os.environ["HOME"], "hrwros_ws/src/hrwros_support/urdf/unknown_obstacle/unknown_obstacle.urdf"), "r") as box_file:
+    with open(os.path.join(os.environ["HOME"], "workspace/hrwros_ws/src/hrwros_support/urdf/unknown_obstacle/unknown_obstacle.urdf"), "r") as box_file:
       box_xml = box_file.read()
     # Wait for a couple of seconds to prevent the unknown obstacle from being
     # considered as a part of the map.
