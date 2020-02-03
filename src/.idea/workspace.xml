@@ -4,13 +4,14 @@
     <generated>
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionResult" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="run_tests" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="hrwros_msgs_genlisp" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="week1_assignment2" />
       <config projectName="Project" targetName="week1_assignment1" />
@@ -32,6 +33,7 @@
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_py" />
       <config projectName="Project" targetName="roscpp_generate_messages_py" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayActionGoal" />
       <config projectName="Project" targetName="object_recognition_msgs_generate_messages_py" />
       <config projectName="Project" targetName="actionlib_generate_messages_eus" />
@@ -48,6 +50,7 @@
       <config projectName="Project" targetName="shape_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="moveit_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="gmock" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayFeedback" />
       <config projectName="Project" targetName="gmock_main" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
@@ -58,13 +61,11 @@
       <config projectName="Project" targetName="_catkin_empty_exported_target" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayResult" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ConvertMetresToFeet" />
       <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
       <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="hrwros_msgs_gennodejs" />
       <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="object_recognition_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="roscpp_generate_messages_eus" />
       <config projectName="Project" targetName="std_msgs_generate_messages_py" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
@@ -72,17 +73,16 @@
       <config projectName="Project" targetName="octomap_msgs_generate_messages_py" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="gmock" />
+      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="doxygen" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="doxygen" />
       <config projectName="Project" targetName="shape_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_CounterWithDelayGoal" />
@@ -107,13 +107,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221b4e37-d5eb-426f-80d8-7f114f996c4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part1.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part1.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part2.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/launch/week3_assignment3_part2.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/create_unknown_obstacles.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/create_unknown_obstacles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week3/scripts/week3_assignment3_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/launch/hrwros_week1_assignments1_2_cpp.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/launch/hrwros_week1_assignments1_2.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +142,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/../devel/lib/python2.7/dist-packages/hrwros_msgs/__init__.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -152,7 +150,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager" selected="CMake Application.clean_test_results">
     <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
@@ -776,6 +774,8 @@
       <workItem from="1580549135181" duration="660000" />
       <workItem from="1580552839658" duration="928000" />
       <workItem from="1580557040015" duration="3257000" />
+      <workItem from="1580729704527" duration="133000" />
+      <workItem from="1580729861370" duration="5706000" />
     </task>
     <servers />
   </component>
@@ -798,10 +798,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981593955" />
-    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580549157805">
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580730043977">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580549157805" />
+    <state x="2250" y="346" width="1332" height="905" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580730043977" />
     <state x="2081" y="125" width="2299" height="1215" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580386010331">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>

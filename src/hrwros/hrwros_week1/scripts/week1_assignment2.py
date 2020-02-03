@@ -6,21 +6,18 @@
 
 import rospy
 from hrwros_msgs.msg import BoxHeightInformation
-from hrwros_msgs.srv import ConvertMetresToFeet, ConvertMetresToFeetRequest, ConvertMetresToFeetResponse
+from hrwros_msgs.srv import ConvertMetresToFeet
 
 
-def box_height_info_callback(data):
+def box_height_info_callback(data, metres_to_feet_service):
     try:
-        # Create a proxy for the service to convert metres to feet - Part2.
-        metres_to_feet = rospy.ServiceProxy('metres_to_feet', ConvertMetresToFeet)
-
         # Call the service here.
-        service_response = metres_to_feet(data.box_height)
+        service_response = metres_to_feet_service(data.box_height)
 
         # Write a log message here to print the height of this box in feet.
         if not service_response.success:
             raise RuntimeError('ROS service call failed')
-        rospy.loginfo("distance %4.2f feet" % (service_response.distance_feet))
+        rospy.loginfo("distance %4.2f feet" % service_response.distance_feet)
 
     except rospy.ServiceException, e:
         print "Service call failed: %s" % e
@@ -37,8 +34,13 @@ if __name__ == '__main__':
     rospy.wait_for_service('metres_to_feet')
     rospy.loginfo("Service %s is now available", 'metres_to_feet')
 
+    # Create a proxy for the service to convert metres to feet - Part2.
+    ''' No point in creating it every time the call-back is invoked; just creat it here once and pass it to the 
+    call-back as an additional parameter '''
+    metres_to_feet = rospy.ServiceProxy('metres_to_feet', ConvertMetresToFeet)
+
     # Create a subscriber to the box height topic - Part1.
-    rospy.Subscriber('/box_height_info', BoxHeightInformation, box_height_info_callback)
+    rospy.Subscriber('/box_height_info', BoxHeightInformation, box_height_info_callback, metres_to_feet)
 
     # Prevent this ROS node from terminating until Ctrl+C is pressed.
     rospy.spin()

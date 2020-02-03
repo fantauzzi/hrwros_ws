@@ -8,7 +8,7 @@
 
 # All necessary python imports go here.
 import rospy
-from hrwros_msgs.msg import SensorInformation, BoxHeightInfo
+from hrwros_msgs.msg import SensorInformation, BoxHeightInformation
 
 
 def sensor_info_callback(data, bhi_pub):
@@ -17,12 +17,11 @@ def sensor_info_callback(data, bhi_pub):
     # Compute the height of the box.
     # Boxes that are detected to be shorter than 10cm are due to sensor noise.
     # Do not publish information about them.
-    # if <write-your-code-here-Part1>:
     if height_box < .1:
         pass
     else:
         # Declare a message object for publishing the box height information.
-        box_height_info = BoxHeightInfo()
+        box_height_info = BoxHeightInformation()
         # Update height of box.
         box_height_info.box_height = height_box
         # Publish box height using the publisher argument passed to the callback function.
@@ -40,7 +39,7 @@ if __name__ == '__main__':
     rospy.loginfo('%s topic is now available!', '/sensor_info')
 
     # Create the publisher for Part3 here
-    bhi_publisher = rospy.Publisher('/box_height_info', BoxHeightInfo, queue_size=10)
+    bhi_publisher = rospy.Publisher('/box_height_info', BoxHeightInformation, queue_size=10)
     # Note here that an ADDITIONAL ARGUMENT (bhi_publisher) is passed to the subscriber. This is a way to pass
     # ONE additional argument to the subscriber callback. If you want to pass multiple arguments,
     # you can use a python dictionary. And if you don't want to use multiple arguments to the
