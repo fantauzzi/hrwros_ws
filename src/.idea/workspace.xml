@@ -11,7 +11,6 @@
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="hrwros_msgs_genlisp" />
-      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="week1_assignment2" />
       <config projectName="Project" targetName="week1_assignment1" />
@@ -66,6 +65,7 @@
       <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="hrwros_msgs_gennodejs" />
       <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="doxygen" />
       <config projectName="Project" targetName="roscpp_generate_messages_eus" />
       <config projectName="Project" targetName="std_msgs_generate_messages_py" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages_eus" />
@@ -76,7 +76,7 @@
       <config projectName="Project" targetName="_hrwros_msgs_generate_messages_check_deps_ObjectDetection" />
       <config projectName="Project" targetName="trajectory_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="trajectory_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="hrwros_msgs_generate_messages" />
       <config projectName="Project" targetName="octomap_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
@@ -108,9 +108,8 @@
   <component name="ChangeListManager">
     <list default="true" id="221b4e37-d5eb-426f-80d8-7f114f996c4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/launch/hrwros_week1_assignments1_2_cpp.launch" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/launch/hrwros_week1_assignments1_2.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_week1/scripts/week1_assignment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_gazebo/config/robot1_controller.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_gazebo/config/robot1_controller.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hrwros/hrwros_gazebo/config/robot2_controller.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hrwros/hrwros_gazebo/config/robot2_controller.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/../devel/lib/python2.7/dist-packages/hrwros_msgs/__init__.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../robot_guido/src/CMakeLists.txt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -776,6 +775,10 @@
       <workItem from="1580557040015" duration="3257000" />
       <workItem from="1580729704527" duration="133000" />
       <workItem from="1580729861370" duration="5706000" />
+      <workItem from="1580837259161" duration="12000" />
+      <workItem from="1580837306862" duration="186000" />
+      <workItem from="1580837514285" duration="53000" />
+      <workItem from="1581013875900" duration="2748000" />
     </task>
     <servers />
   </component>
@@ -794,10 +797,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl" timestamp="1579981593955">
+    <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl" timestamp="1580837563399">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981593955" />
+    <state x="3161" y="490" width="440" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1580837563399" />
     <state x="2250" y="346" width="1332" height="905" key="SettingsEditor" timestamp="1580730043977">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
@@ -810,5 +813,20 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2492" y="422" width="836" height="752" key="com.intellij.javaee.MapExternalResourceDialog/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1579981601810" />
+    <state x="226" y="0" width="1616" height="1200" key="dock-window-1" timestamp="1581017096713">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="226" y="0" width="1616" height="1200" key="dock-window-1/1920.0.2560.1440/0.27.1920.1173@1920.0.2560.1440" timestamp="1581017096713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hrwros/hrwros_week4/scripts/week4_assignment3.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
