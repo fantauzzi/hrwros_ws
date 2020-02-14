@@ -106,7 +106,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES hrwros_week1
-#  CATKIN_DEPENDS rospy std_msgs
+CATKIN_DEPENDS rospy roscpp std_msgs hrwros_msgs
 #  DEPENDS system_lib
 )
 
@@ -200,12 +200,14 @@ include_directories(
 # catkin_add_nosetests(test)
 
 add_executable(week1_assignment1 src/week1_assignment1.cpp)
+add_dependencies(week1_assignment1 hrwros_msgs_generate_messages_cpp)
+add_dependencies(week1_assignment1 ${catkin_EXPORTED_TARGETS})
 add_executable(week1_assignment2 src/week1_assignment2.cpp)
 target_link_libraries(week1_assignment1 ${catkin_LIBRARIES})
 target_link_libraries(week1_assignment2 ${catkin_LIBRARIES})
-add_dependencies(week1_assignment1 hrwros_msgs_generate_messages_cpp)
+
 # add_dependencies(week1_assignment1 beginner_tutorials_generate_messages_cpp)
-# add_dependencies(your_program ${catkin_EXPORTED_TARGETS})
+
 
 # add_executable(listener src/listener.cpp)
 # target_link_libraries(listener ${catkin_LIBRARIES})
